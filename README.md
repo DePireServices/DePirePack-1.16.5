@@ -9,5 +9,6 @@ B4 Mở File Pack Của Group mà bạn đã tải về
 B5 Kéo Thư Mục Có Trong File Chứa Pack Của Group Vào Thư Mục Version
 Và Thế Là Xong
 Nên Hãy Tải Và Update Pack Nếu Có Update nhá 
-Muốn Update Pack thì cứ Xoá thư mục có tên của Pack Đang Chơi Rồi Làm Lại Các Bước Trên Là Được Nhá!!!!!!!!!!!!!
+Muốn Update Pack thì cứ Xoá thư mục có tên của Pack Đang Chơi Rồi Làm Lại Các Bước Trên Là Được Nhá!!!!!!!!!!
+
 .hết
